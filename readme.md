@@ -2,7 +2,7 @@
 The Nodejs Package for BINTable.com API
 
 # Installation
-Please run > `composer install bintable/api_php`
+Please run > `composer require bintable/api_php`
 
 # Usage
 The package contains two endpoints
